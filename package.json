@@ -1,0 +1,19 @@
+{
+  "name": "date-beautifier",
+  "version": "1.0.0",
+  "description": "This package beautify date. it is in beta stage ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitts/date-beautifier.git"
+  },
+  "author": "vitts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitts/date-beautifier/issues"
+  },
+  "homepage": "https://github.com/vitts/date-beautifier#readme"
+}
